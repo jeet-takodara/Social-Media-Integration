@@ -3,5 +3,4 @@ This a Demo Application which uses firebase as backend service and integrates th
 
 - Add AppID, Secret Key of Facebook and Twitter in strings.xml
 
-##Youtube Link
 https://youtu.be/LjaAK5W6rxk
